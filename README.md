@@ -21,11 +21,11 @@
 2.  Start the xampp server 
 	(https://www.youtube.com/watch?v=-f8N4FEQWyY)
 
-3. Past the project inside xampp\htdocs\assignment1
+3. Past the project inside xampp\htdocs\dassult_assigment
 
 4. Run http://localhost/dassult_assigment
 
-# Demo Screenshot:
+# Demo Screenshot
 1. Drag and Drop Feature
 https://github.com/prashantnisal2017/dassult_assigment/blob/master/dist/images/drag_n_drop.png
 
