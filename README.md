@@ -26,8 +26,7 @@
 4. Run http://localhost/dassult_assigment
 
 # Demo Screenshot:
-
-1. Drag and Drop Feature:
+1. Drag and Drop Feature
 https://github.com/prashantnisal2017/dassult_assigment/blob/master/dist/images/drag_n_drop.png
 
 2.Contact Us page
